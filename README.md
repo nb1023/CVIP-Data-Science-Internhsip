@@ -19,13 +19,16 @@ Presents the total active cases for each state/UT in India.
 Indian Coordinates Dataset:
 
 2- Displays the Indian Coordinates dataset.
+
 Includes latitude and longitude coordinates for different states in India.
 COVID-19 Cases in India, Italy, Wuhan, and Korea Dataset:
 
 3- Displays the per-day COVID-19 cases in India, Italy, Wuhan, and Korea based on the available dataset.
+
 Shows the total active cases in India, Italy, Wuhan, and Korea.
 World COVID-19 Data Analysis:
 
 4- Combines and displays COVID-19 data from multiple sources.
+
 Provides a density map of confirmed cases worldwide using latitude and longitude coordinates.
 Animates the density map to visualize the spread of COVID-19 over time.
